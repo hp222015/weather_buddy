@@ -6,7 +6,7 @@ This is a simple web application that allows users to retrieve real-time weather
 
 ## Features
 
-- Input field to enter a location (e.g., city or town).
+- Input field to enter a location (e.g. city or town).
 - "Get Weather" button to trigger the weather retrieval process.
 - Dynamic display of weather information, including description and temperature (in degrees Celsius).
 - Responsive design for seamless use on various devices.
